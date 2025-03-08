@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1734538789 source:c:\users\rain\desktop\computer_science\code\codeblocks\integerset\integersettest.cpp
+	<iostream>
+	"integerSet.h"
+
+1734538676 c:\users\rain\desktop\computer_science\code\codeblocks\integerset\integerset.h
+
+1734538773 source:c:\users\rain\desktop\computer_science\code\codeblocks\integerset\integerset.cpp
+	<iostream>
+	<algorithm>
+	"integerSet.h"
+

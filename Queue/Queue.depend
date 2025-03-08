@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1734783349 source:c:\users\rain\desktop\computer_science\code\codeblocks\queue\main.cpp
+	<iostream>
+	"Queue.h"
+	<string>
+
+1734783349 c:\users\rain\desktop\computer_science\code\codeblocks\queue\queue.h
+	<string>
+
+1734783349 source:c:\users\rain\desktop\computer_science\code\codeblocks\queue\queue.cpp
+	<iostream>
+	<string>
+	"Queue.h"
+

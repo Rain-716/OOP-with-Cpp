@@ -1,0 +1,22 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build all",
+            "type": "shell",
+            "command": "C:\\TDM-GCC-64\\bin\\g++.exe",
+            "args": [
+                "testHQ.cpp",
+                "heteroQueue.cpp",
+                "-o",
+                "testHQ.exe",
+                "-g"
+            ],
+            "group": {
+                "kind" : "build",
+                "isDefault" : true,
+            },
+            "problemMatcher": ["$gcc"]
+        }
+    ]
+}
